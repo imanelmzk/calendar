@@ -1,8 +1,7 @@
 ## 📅 Calendar 2026 – Python Project
 ## 📌 Description
 
-
-This repository contains a Python-based Calendar 2026 application designed to display the full calendar of the year 2026 in a structured and readable format via the command line.
+## This repository contains a Python-based Calendar 2026 application designed to display the full calendar of the year 2026 in a structured and readable format via the command line.
 This project focuses on code clarity, correctness, and the practical use of Python for date-related tasks.
 
 - * Features
